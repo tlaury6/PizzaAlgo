@@ -7,3 +7,8 @@
 5. Wait for delivery
 6. Greet delivery driver
 7. See step 4b at necessary
+8. If the wrong order is delivered to me
+      8a. Inform the driver of the error
+      8b. Call the restaurant and ask for a refund or replacement
+      8c. Wait for the driver to return to the restaurant and pick up the correct order
+      8d. When the driver arrives, retreive the pizza
